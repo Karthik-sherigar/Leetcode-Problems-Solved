@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0739-daily-temperatures) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -47,9 +48,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
