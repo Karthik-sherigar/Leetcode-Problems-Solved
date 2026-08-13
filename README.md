@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0485-max-consecutive-ones](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0645-set-mismatch) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1046-last-stone-weight) |
 ## Sliding Window
 |  |
