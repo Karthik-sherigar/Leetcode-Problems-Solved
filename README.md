@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0485-max-consecutive-ones](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0636-exclusive-time-of-functions) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
