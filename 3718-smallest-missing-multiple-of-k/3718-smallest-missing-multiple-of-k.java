@@ -4,10 +4,10 @@ class Solution {
         for(int num: nums){
             set.add(num);
         }
-        for(int i=1; ;i++){
-            if(!set.contains(k*i)){
-                return k*i;
-            }
+        int i=1;
+        while(set.contains(k*i)){
+            i++;
         }
+        return k*i;
     }
 }
