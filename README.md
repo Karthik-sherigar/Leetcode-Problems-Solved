@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1046-last-stone-weight) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
