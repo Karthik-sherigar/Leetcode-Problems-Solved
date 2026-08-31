@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1927-sum-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
