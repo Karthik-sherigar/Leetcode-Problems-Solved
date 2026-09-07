@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0038-count-and-say) |
 | [0504-base-7](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0504-base-7) |
 | [1768-merge-strings-alternately](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1768-merge-strings-alternately) |
