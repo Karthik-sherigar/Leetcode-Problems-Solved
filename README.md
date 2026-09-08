@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1768-merge-strings-alternately](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1768-merge-strings-alternately) |
