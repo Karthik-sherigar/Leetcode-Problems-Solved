@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0636-exclusive-time-of-functions) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0038-count-and-say) |
 | [0504-base-7](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0504-base-7) |
 | [1768-merge-strings-alternately](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1768-merge-strings-alternately) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
