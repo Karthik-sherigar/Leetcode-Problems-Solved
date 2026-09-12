@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0303-range-sum-query-immutable) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0263-ugly-number) |
 | [0504-base-7](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
@@ -227,4 +230,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
