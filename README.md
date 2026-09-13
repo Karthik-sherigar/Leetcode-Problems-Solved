@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2073-time-needed-to-buy-tickets) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0263-ugly-number) |
 | [0504-base-7](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
