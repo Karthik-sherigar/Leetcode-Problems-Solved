@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2073-time-needed-to-buy-tickets) |
+| [2582-pass-the-pillow](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1927-sum-game) |
+| [2582-pass-the-pillow](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2582-pass-the-pillow) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3870-count-commas-in-range) |
