@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0645-set-mismatch) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0389-find-the-difference) |
+| [0575-distribute-candies](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
