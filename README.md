@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 ## Greedy
 |  |
