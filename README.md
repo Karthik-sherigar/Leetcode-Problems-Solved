@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0038-count-and-say) |
 | [0389-find-the-difference](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0389-find-the-difference) |
