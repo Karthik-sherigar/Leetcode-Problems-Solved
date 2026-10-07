@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
 ## Minimax
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
