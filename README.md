@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
