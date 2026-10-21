@@ -4,7 +4,8 @@ class Solution {
        int count = 0;
         for(int i = 0; i<s.length(); i++){
             set.add(s.charAt(i));
-            if(set.size() == (i+1)%3){
+            int n = (i+1)%3;
+            if(set.size() == n){
                 count++;
             }
         }
