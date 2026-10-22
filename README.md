@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1441-build-an-array-with-stack-operations) |
+| [1688-count-of-matches-in-tournament](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2073-time-needed-to-buy-tickets) |
 | [2582-pass-the-pillow](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2582-pass-the-pillow) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
+| [1688-count-of-matches-in-tournament](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1688-count-of-matches-in-tournament) |
 | [1927-sum-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1927-sum-game) |
 | [2582-pass-the-pillow](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
