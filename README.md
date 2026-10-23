@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3483-unique-3-digit-even-numbers) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3875-construct-uniform-parity-array-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0645-set-mismatch) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
