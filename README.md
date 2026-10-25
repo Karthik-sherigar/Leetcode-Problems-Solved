@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
 | [1688-count-of-matches-in-tournament](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1688-count-of-matches-in-tournament) |
 | [1927-sum-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1927-sum-game) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0680-valid-palindrome-ii) |
+| [1323-maximum-69-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1323-maximum-69-number) |
 | [1927-sum-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3723-maximize-sum-of-squares-of-digits) |
