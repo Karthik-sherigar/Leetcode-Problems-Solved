@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
@@ -181,11 +182,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1927-sum-game) |
@@ -351,4 +354,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
