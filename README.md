@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0680-valid-palindrome-ii) |
