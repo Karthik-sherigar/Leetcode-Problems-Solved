@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0008-string-to-integer-atoi) |
