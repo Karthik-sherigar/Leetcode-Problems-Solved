@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0575-distribute-candies](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0504-base-7](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0599-minimum-index-sum-of-two-lists) |
