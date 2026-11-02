@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0367-valid-perfect-square) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
