@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0605-can-place-flowers) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0561-array-partition) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0334-increasing-triplet-subsequence) |
+| [0561-array-partition](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1323-maximum-69-number) |
