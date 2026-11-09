@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0292-nim-game) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
