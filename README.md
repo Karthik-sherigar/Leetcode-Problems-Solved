@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
+| [1154-day-of-the-year](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1406-stone-game-iii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1021-remove-outermost-parentheses) |
+| [1154-day-of-the-year](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1154-day-of-the-year) |
 | [1446-consecutive-characters](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1927-sum-game) |
