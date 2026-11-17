@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1748-sum-of-unique-elements) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1154-day-of-the-year) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1446-consecutive-characters](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1927-sum-game) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0680-valid-palindrome-ii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1323-maximum-69-number) |
 | [1927-sum-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
