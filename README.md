@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1051-height-checker](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1051-height-checker) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1748-sum-of-unique-elements) |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
