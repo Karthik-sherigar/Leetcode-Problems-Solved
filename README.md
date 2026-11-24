@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2418-sort-the-people](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1748-sum-of-unique-elements) |
+| [2418-sort-the-people](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2418-sort-the-people) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3731-find-missing-elements) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/1927-sum-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2409-count-days-spent-together) |
+| [2418-sort-the-people](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3498-reverse-degree-of-a-string) |
 | [3803-count-residue-prefixes](https://github.com/Karthik-sherigar/Leetcode-Problems-Solved/tree/master/3803-count-residue-prefixes) |
